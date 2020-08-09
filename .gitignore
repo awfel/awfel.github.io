@@ -1,0 +1,7 @@
+# VS Code related folders
+.vscode/
+.devcontainer/
+
+# Jekyll related folders and files
+_site/
+.jekyll-cache/
