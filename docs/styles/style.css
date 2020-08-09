@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    max-width: 1024px;
+}
+
+.subtitle {
+    font-size: 80%;
+    color: gray;
+}
+.bebleo-wordmark {
+    color: orange;
+    text-decoration: none;
+}
